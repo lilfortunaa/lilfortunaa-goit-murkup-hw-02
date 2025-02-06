@@ -1,15 +1,15 @@
+body {
+  font-family: 'Roboto', serif;
+  color: #434455;
+  background-color: #fff;
+}
+
 ul {
   list-style-type: none;
 }
 
 a {
   text-decoration: none;
-}
-
-body {
-  font-family: 'Roboto', serif;
-  color: #434455;
-  background-color: #fff;
 }
 
 .logo {
@@ -41,8 +41,6 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-/* #endheader-footer */
-
 
 .nav-link {
   font-weight: 500;
@@ -75,8 +73,6 @@ body {
   color: #404bbf;
 }
 
-
-/* button */
 .order-button {
   font-weight: 500;
   font-size: 16px;
@@ -100,4 +96,3 @@ body {
   color: #fff;
   background-color: #2e2f42;
 }
-/* endbutton */
